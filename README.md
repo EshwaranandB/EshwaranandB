@@ -1,23 +1,26 @@
-<!-- 👾 Retro Arcade GitHub Profile -->
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3068&height=150&section=header&text=%20Eshwar's%20Arcade%20&fontSize=35&fontAlignY=35&desc=AI%20Developer%20|%20OpenSource-Contributor%20|%20TechEnthusiast%20&descAlignY=55&descAlign=50&fontColor=fff"/> </p>
-
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3068&height=150&section=header&text=%20Eshwar's%20Arcade%20&fontSize=35&fontAlignY=35&desc=AI%20Developer%20|%20OpenSource-Contributor%20|%20TechEnthusiast%20&descAlignY=55&descAlign=50&fontColor=fff"/> 
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EshwaranandB&style=for-the-badge&color=ff3068&label=PROFILE+VIEWS"/>
 </p>
-                       Hey, I am Eshwar Anand and currently enrolled in B.Tech AI & ML at Marwadi University(2028)
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="200"/>
+  <strong>Hey, I am Eshwar Anand!</strong><br>
+  Currently enrolled in B.Tech AI & ML at Marwadi University (Class of 2028)
+</p>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1bGt6M3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z/3ogwFGEHrVxusDbDjO/giphy.gif" width="200"/>
 </p>
 
 ---
 
 ## 🕹️ Player Stats  
-💀 HP: ██████████ 81%  
-⚡ XP: ███████░░░ 27%  
-🏆 Level: Rookie  
+**💀 HP:** `██████████ 81%`  
+**⚡ XP:** `███████░░░ 27%`  
+**🏆 Level:** `Rookie`  
 
 ---
 
@@ -32,12 +35,12 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJ6ejJza29yYTUzZmIwd21zMWFxdnBvdDl3MnRvYmlzbmQ1cWgyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eydSI1JrEVsT26mp5g/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/eydSI1JrEVsT26mp5g.gif" width="200"/>
 </p>
 
 ---
 
-## 📊  Stats  
+## 📊 Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EshwaranandB&show_icons=true&theme=radical&title_color=ff3068&icon_color=ffd700&bg_color=141321&border_color=ff3068&hide_border=false" width="48%"/>
@@ -54,10 +57,8 @@
   <a href="mailto:beshwarg6@gmail.com"><img src="https://img.shields.io/badge/Email-📩-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/xT0xeJpnrWC4XWblEk.gif" width="200"/>
 </p>
----
 
+---
