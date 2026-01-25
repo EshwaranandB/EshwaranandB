@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3068&height=150&section=header&text=%20Eshwar's%20Arcade%20&fontSize=35&fontAlignY=35&desc=AI%20Developer%20|%20OpenSource-Contributor%20|%20TechEnthusiast%20&descAlignY=55&descAlign=50&fontColor=fff"/> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3068&height=150&section=header&text=%20Eshwar's%20Arcade%20&fontSize=35&fontAlignY=35&desc=AI%20Developer%20|%20OpenSource-Contrib" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1bGt6M3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z3Z6Z/3ogwFGEHrVxusDbDjO/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="200" alt="wave gif"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/eydSI1JrEVsT26mp5g.gif" width="200"/>
+  <img src="https://media.giphy.com/media/eydSI1JrEVsT26mp5g/giphy.gif" width="200" alt="power-up gif"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## 📊 Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EshwaranandB&show_icons=true&theme=radical&title_color=ff3068&icon_color=ffd700&bg_color=141321&border_color=ff3068&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EshwaranandB&show_icons=true&theme=radical&title_color=ff3068&icon_color=ffd700&bg_color=141321&border_color=ff3068&hide_border=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EshwaranandB&theme=radical&background=141321&border=ff3068&stroke=ff3068" width="48%"/>
 </p>
 
@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/xT0xeJpnrWC4XWblEk.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200" alt="connect gif"/>
 </p>
 
 ---
