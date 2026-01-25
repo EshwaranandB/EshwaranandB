@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHcza2xmcDB6MWxpYmp4aGxlczUydmNucmp4a2xjYnhoamNkOGZtNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eydSI1JrEVsT26mp5g/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJ6ejJza29yYTUzZmIwd21zMWFxdnBvdDl3MnRvYmlzbmQ1cWgyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eydSI1JrEVsT26mp5g/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="200"/>
 </p>
 ---
 
