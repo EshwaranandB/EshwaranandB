@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHcza2xmcDB6MWxpYmp4aGxlczUydmNucmp4a2xjYnhoamNkOGZtNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eydSI1JrEVsT26mp5g/giphy.gif" width="200"/>
 </p>
 
 ---
