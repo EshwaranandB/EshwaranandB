@@ -75,7 +75,7 @@
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://media.giphy.com/media/eydSI1JrEVsT26mp5g/giphy.gif" width="200" alt="power-up gif"/>
+<img src="https://media.giphy.com/media/1SBYhobZoBT9iDZIZD/giphy.gif" width="200" alt="ronaldo celebration gif"/>
 
 </div>
 
