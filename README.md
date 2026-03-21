@@ -75,7 +75,7 @@
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://media.giphy.com/media/1SBYhobZoBT9iDZIZD/giphy.gif" width="200" alt="ronaldo celebration gif"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXF3Z2NxOXE1em4wODBvMDcxNW81bHB5MGp0OGVlYmwzbmQyZ21nYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZxEFaOQiJ4gF3XGVV/giphy.gif" width="200" alt="ronaldo celebration gif"/>
 
 </div>
 
